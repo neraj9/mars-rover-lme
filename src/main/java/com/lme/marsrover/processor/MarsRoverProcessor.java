@@ -4,7 +4,6 @@ import static com.lme.marsrover.model.ProcessingStep.FORWARD;
 
 import org.springframework.stereotype.Component;
 
-import com.lme.marsrover.MarsRoverScentManager;
 import com.lme.marsrover.model.MarsRover;
 import com.lme.marsrover.model.ProcessingStep;
 import com.lme.marsrover.model.RoverCoordinate;

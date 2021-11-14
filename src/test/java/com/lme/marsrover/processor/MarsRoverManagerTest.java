@@ -1,4 +1,4 @@
-package com.lme.marsrover;
+package com.lme.marsrover.processor;
 
 import static java.util.Arrays.asList;
 
@@ -17,6 +17,7 @@ import com.lme.marsrover.mapper.MarsRoverInputMapper;
 import com.lme.marsrover.model.Direction;
 import com.lme.marsrover.model.MarsRover;
 import com.lme.marsrover.model.MarsRoverInput;
+import com.lme.marsrover.processor.MarsRoverManager;
 import com.lme.marsrover.processor.MarsRoverProcessor;
 
 @ExtendWith(MockitoExtension.class)

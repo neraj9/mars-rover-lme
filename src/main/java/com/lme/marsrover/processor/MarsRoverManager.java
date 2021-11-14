@@ -1,4 +1,4 @@
-package com.lme.marsrover;
+package com.lme.marsrover.processor;
 
 import static java.util.stream.Collectors.toList;
 

@@ -8,7 +8,6 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import com.lme.marsrover.MarsRoverScentManager;
 import com.lme.marsrover.model.Direction;
 import com.lme.marsrover.model.MarsRover;
 

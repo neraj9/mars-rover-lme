@@ -1,4 +1,4 @@
-package com.lme.marsrover;
+package com.lme.marsrover.processor;
 
 import java.util.ArrayList;
 import java.util.List;

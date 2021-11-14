@@ -1,10 +1,11 @@
-package com.lme.marsrover;
+package com.lme.marsrover.processor;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
 import com.lme.marsrover.model.RoverCoordinate;
+import com.lme.marsrover.processor.MarsRoverScentManager;
 
 public class MarsRoverScentManagerTest {
 

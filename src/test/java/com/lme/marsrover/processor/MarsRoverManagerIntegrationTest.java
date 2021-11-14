@@ -1,4 +1,4 @@
-package com.lme.marsrover;
+package com.lme.marsrover.processor;
 
 import static java.util.Arrays.asList;
 
@@ -13,7 +13,9 @@ import org.springframework.context.annotation.Import;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 import com.lme.marsrover.mapper.MarsRoverInputMapper;
+import com.lme.marsrover.processor.MarsRoverManager;
 import com.lme.marsrover.processor.MarsRoverProcessor;
+import com.lme.marsrover.processor.MarsRoverScentManager;
 
 @ExtendWith(SpringExtension.class)
 @Import({ MarsRoverManager.class, MarsRoverInputMapper.class, MarsRoverScentManager.class, MarsRoverProcessor.class})

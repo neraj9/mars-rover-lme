@@ -19,7 +19,7 @@ import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lme.marsrover.MarsRoverManager;
+import com.lme.marsrover.processor.MarsRoverManager;
 import com.lme.marsrover.model.web.RoverRequest;
 
 @WebMvcTest( controllers = MarsRoverController.class )
