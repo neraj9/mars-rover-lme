@@ -6,10 +6,9 @@ If I had more time, I would have used a prototype instance of MarsRoverScentMana
 
 2) I would have liked to code and test for edge scenarios like invalid inputs
 
-3)I would have liked to add an IT which tests the whole application
-
-
 How to run:
 1) This is a spring boot application. Right click on MarsRoverApplication and run the java class
 2)from command line: mvn spring-boot:run
+
+3) MarsRoverIT is an integration test
 
