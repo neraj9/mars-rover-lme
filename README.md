@@ -1,3 +1,8 @@
+How to run:
+This is a TDD application. You can import the application to an IDE, right click on any test and run it.
+I have not added an embedded app server or the Spring boot application class.
+
+
 Improvements needed:
 
 1) MarsRoverScentManager usage as a singleton bean is wrong.
