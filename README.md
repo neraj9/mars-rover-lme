@@ -12,3 +12,4 @@ If I had more time, I would have used a prototype instance of MarsRoverScentMana
 How to run:
 1) This is a spring boot application. Right click on MarsRoverApplication and run the java class
 2)from command line: mvn spring-boot:run
+
